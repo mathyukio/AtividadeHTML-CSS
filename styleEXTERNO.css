@@ -1,0 +1,28 @@
+.div1 {
+    background-color: 	#018bed;
+    width: 600px;
+    height: 600px;
+}
+
+.div2 {
+    background-color: #ece823;
+    width: 300px;
+    height: 300px;
+}
+.paragrafo {
+    color: orange;
+    background-color: purple;
+    font-size: 45px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.div3 {
+    width: 60%;
+    height: 50vh;
+    background-color: rgb(127, 223, 255);
+}
+.div4 {
+    width: 75vw;
+    height: 45%;
+    background-color: rgb(191, 150, 150);
+}
